@@ -1,6 +1,6 @@
 
 {
-  "name":"BARAKA-MD-V1",
+  "name":"PrimeTech",
   "description":"Best whatsapp bot developed by Baraka bega+Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/e98ca927f62b4d4e9ba87.jpg",
@@ -36,7 +36,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BARAKA-MD-V1",
+      "value":"PrimeTech_MD",
       "required":false
 
     } ,
@@ -66,7 +66,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUUVtQUFnZGxQZHlSSTMzMmpocmdjOHJBR2svVm9RclcwNGpvUlFCeWRYYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibDFkWnR5ZHNwaStUMWFnS1dwR1B5RVNYNGpmbk9oYWt1cy9iMUxpZDZWWT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJvQzR4NjNKYmpka1ZRMVZVdi9KTDNMaTl0UXlVaXBoZ3pzSWFpUVFpU0hjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJLVUhGZkMvOGdhQVZYdjZTczJGbE5CY2p0UTVLc3E4emFFZENFcUZHUnpBPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjZBQ3NacFRsN29yaVJkWDB3VmZBUURFb1dHVzEyMFE1eEo2WXl2K0JDMkk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjZHRFRuRDVHSlk1YWE2RmN0YkFLNU1IUjlXZ2F3eDAxSS9CVkN1UnRqMHc9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYUQzV2F2STNCcVAzZEZrKzN1a2NsSXMrR1NYYnJXU2hDTEVGbks0OHdYTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoialEvdWRIWHErNmN2MEpTWndXZUZyNzZBL0ZHNmZtUDhVdFlqeTRrRFVSMD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ikc5ODhlVTZRRUNsejlMUzl0cVFYbWNCZHdKWlZlNTMyZ3o5ZFh2b2ZPRTBsWHVNSG05WVU2M1dmTzBTNGhGQXJZMnRYNlIxbnJlaFRjV3ZNS2VPT0JnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTA4LCJhZHZTZWNyZXRLZXkiOiJiZTJNM0JMS0VzdTJ4VnlKOVhhcXhPOHNNamh6b2JxSFhBQjBaNjRCWSs0PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJOSVM1QzdzbVFhQ1F4cUlkN1Ytb093IiwicGhvbmVJZCI6IjE2OWQ2YWUwLWZlOWEtNDgyOC1hMzdhLWU1NDFkYjZlMWJkMyIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI4ZjlwZktKV202YkE5NlE1QWd0eWU5RklQUVU9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUZJcjE5dCtrQzZUbUxSQllqZE9BR1dQcWt3PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkhCRVBQR0tDIiwibWUiOnsiaWQiOiIyNjM3MTk2Mjc0Mjk6NDBAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ00zc3Q1SUZFTS9hdDdZR0dBb2dBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Im9NSzRDc3RxVWZML204ZVMzeE0xa0VsT3lJVk5sb3pKYUU4RldDcjVYRFE9IiwiYWNjb3VudFNpZ25hdHVyZSI6InhzaWEwU2FhYlNpc2ZBRjIvKytQbEpZdThESGhXTVIzOFVkQWhxK1dkTS8xbkJyemhpY2pZM3BFS0hpQmJTdFp3OWNUQjV4TnNnVGU5Mm1PVlFqK0RRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJDTzRJVjZJeEtKelp6bEl4ZE9uWVJmcjlyb1I2Z3NobHRMWi8vQWtibk1ZMGs0TWpCamZjNzArSUsvWVRvR1RIaE14SzkvSmFsenVvMjh5cy9jUExCdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI2MzcxOTYyNzQyOTo0MEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJhREN1QXJMYWxIeS81dkhrdDhUTlpCSlRzaUZUWmFNeVdoUEJWZ3ErVncwIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzI0NzcxNjc2LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUZucCJ9",
       "required":true
       
     },
@@ -75,14 +75,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr baraka"
+    "value": "PrimeTech"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255762190568,255679513639,254710772666"
+    "value": "263719627429"
   },
     "WARN_COUNT":
   {
